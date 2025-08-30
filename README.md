@@ -4,7 +4,9 @@ A simple Command-Line To-Do List Application built with Python, using pyfiglet f
 
 This project helps you manage daily tasks with options to add, display, complete, and delete tasks.
 
+...........................................................................
 ✨ Features
+...........................................................................
 
 ✅ Add new tasks
 
@@ -16,7 +18,12 @@ This project helps you manage daily tasks with options to add, display, complete
 
 🎨 Colored text and ASCII art for better UI
 
+...........................................................................
+
 📂 Project Structure
+
+...........................................................................
+
 todo-list/
 │-- main.py   # Main program
 │-- README.md # Documentation
@@ -28,8 +35,11 @@ Install dependencies with:
 
 pip install pyfiglet colorama
 
+...........................................................................
+
 ▶️ Usage
 
+...........................................................................
 Run the script:
 
 python main.py
@@ -57,13 +67,19 @@ Enter Task Name : Finish Homework
 
 Task Added Successfully ✅
 
+...........................................................................
+
 🚀 Future Improvements
+
+...........................................................................
 
 Save tasks to a file (persistent storage)
 
 Add deadlines and priorities
 
 GUI version with Tkinter or PyQt
+
+...........................................................................
 
 👨‍💻 Author
 
